@@ -45,11 +45,17 @@ class Airplane {
    constructor(name, age){
     this.name = name;
     this.age = age;
-    this.happyTummy = false;
-
-
+    this.happyTummy = [];
    }
+    eat(){
+    }
     
+    poop(){      
+    }
+
+    toString(){
+      return `${this.name} is ${this.age} years old`;
+    }
   }
   
   /*
