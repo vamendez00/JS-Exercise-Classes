@@ -1,5 +1,5 @@
 # The _class_ Syntax
-
+"arbitrary change"
 This challenge focuses on using the new for ES6 `class` syntax.
 
 ## JavaScript Fundamentals
